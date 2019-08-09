@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on Love Nature</title>
+    <link>https://naturenotclimate.github.io/LoveNature/tags/media/</link>
+    <description>Recent content in Media on Love Nature</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Open</copyright>
+    <lastBuildDate>Fri, 09 Aug 2019 00:36:45 +0200</lastBuildDate>
+    
+	<atom:link href="https://naturenotclimate.github.io/LoveNature/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parasites of society</title>
+      <link>https://naturenotclimate.github.io/LoveNature/post/parasites-of-society/</link>
+      <pubDate>Fri, 09 Aug 2019 00:36:45 +0200</pubDate>
+      
+      <guid>https://naturenotclimate.github.io/LoveNature/post/parasites-of-society/</guid>
+      <description>When one organism lives off another organism without benefitting it, we call that parasitism. In nature, parasites often only consume an optimal part of the production output of an organism, preferably without the host noticing. Parasites target a balance between their gain and danger to the host. Taking too much can endanger the ecosystem of the parasites. In society, there are whole classes of people with little output of their own, some wielding great power without responsibility.</description>
+    </item>
+    
+  </channel>
+</rss>

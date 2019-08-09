@@ -1,0 +1,45 @@
+baseurl		= "https://naturenotclimate.github.io/LoveNature"
+theme		= "casper-two"
+paginate	= 6
+publishDir	= "docs"
+title		= "Love Nature"
+
+DefaultContentLanguage = "en"
+copyright = "Open"
+
+[params]
+  cover		= "img/nature_lake.jpg"
+  title		= "Keep your focus on protecting Nature"
+  description	= "The LoveNature Foundation's web site"
+  logo		= "img/love-nature.jpg"
+		      # taken from pixabay.com
+
+  githubName	= "NatureNotClimate"
+
+  orgName	= "LoveNature Foundation"
+  orgWebsite	= "https://naturenotclimate.github.io/LoveNature"
+  orgDescription = "The LoveNature Foundation tries to save nature by exposing forces that leech on your love of nature"
+
+  pageNotFoundTitle = "Hmmm. Page doesn't exists. 404 for you."
+
+  singleViewStyle = "caspertwo"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Nature"
+  url = "/tags/nature/"
+  weight = 199
+
+[[menu.main]]
+  name = "Economy"
+  url = "/tags/economy/"
+  weight = 130
+
+[[menu.main]]
+  name = "CO2"
+  url = "/tags/co2/"
+  weight = 100
