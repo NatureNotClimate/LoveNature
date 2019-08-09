@@ -10,8 +10,6 @@ image: "img/scam-alert.jpg"
 
 Nowhere in nature will you find evidence of damage because of a hotter climate. Seasides haven't expanded, species have not moved or went extinct becasue of that. All human related extinctions are due to habitat loss or poaching. After 200 years of CO2 increasing, there are only predictions, nothing real has happened yet. Temperature measurements of the last years are much lower than predicted with the scary models.
 
-<sup>(True damage to forests)</sup> ![Chainsaw damage](../img/fire_damage_small.png) <sup>and</sup> ![Chainsaw damage](../img/chainsaw_small.png).
-
 CO2 causes no damage at all. It has a beneficial effect on plants, and plants have been growing more and healthier because of the extra nutrition. The last 1000 years temperatures have repeatedly went from cold to warm and back. Nature is used to that. It is not used to being cut down at an industrial scale. The global warming is not just nonsense, it effectively obstructs the conservation of nature.
 
 The loss of tropical forests has indeed warmed our climate, and that has only increased because of the climate scare. Don’t believe me? 
