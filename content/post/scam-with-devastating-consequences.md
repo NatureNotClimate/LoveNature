@@ -8,7 +8,9 @@ authoravatar: "img/sjisuu.png"
 image: "img/scam-alert.jpg"
 ---
 
-Nowhere in nature will you find evidence of damage because of a hotter climate. Seasides haven't grown, species have not moved or went extinct because of warming. All human related extinctions are due to habitat loss or poaching. After 200 years of CO2 increasing, there are only predictions, nothing real has happened yet. Temperature measurements of the last few years are much lower than predicted with the scary models. So why are we sacrificing nature to save it? Real nature is being cut down while we are preoccupied with untrue speculations.
+As a practicing nature protector, I spend lots of time in nature. I see tons of destruction going on - right now. Fire, chainsaw, ... heart-breaking. What I never see is any sign of damage caused by climate change. None. It's not there. But the destruction is real, and [accellerating]. What on earth is going on?
+
+Seasides haven't grown, species have not moved or went extinct because of warming. All human related extinctions are due to habitat loss or poaching. After 200 years of CO2 increasing, there are only predictions, nothing real has happened yet. Temperature measurements of the last few years are much lower than predicted with the scary models. So why are we sacrificing nature to save it? Real nature is being cut down while we are preoccupied with untrue speculations.
 
 <div align="center">
 ![Air measurements show no warming][air measurements]
@@ -30,6 +32,7 @@ If we focus on climate change, what will happen is that we forget that the fores
 <div align="center">{{< youtube uK367T7h6ZY >}}</div><br>
 
 ---
+[accellerating]: https://www.wri.org/blog/2017/10/global-tree-cover-loss-rose-51-percent-2016
 [this new study]: https://arxiv.org/pdf/1907.00165.pdf
 [skeptical on climate change]: http://www.populartechnology.net/2009/10/peer-reviewed-papers-supporting.html#Preface
 [97% consensus]: https://climatechangedispatch.com/wsj-the-myth-of-the-climate-change-97/
