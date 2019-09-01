@@ -2,7 +2,7 @@
 title: "A scam with devastating consequences"
 date: 2019-08-08T17:35:33+02:00
 draft: false
-tags: ["nature", "climatehyseria", "CO2"]
+tags: ["nature", "climatehysteria", "scam", "CO2"]
 author: "sjisuu"
 authoravatar: "img/sjisuu.png"
 image: "img/scam-alert.jpg"

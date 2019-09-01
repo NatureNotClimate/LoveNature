@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://naturenotclimate.github.io/LoveNature/post/fat-scare/</loc>
+    <lastmod>2019-09-01T12:06:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://naturenotclimate.github.io/LoveNature/post/parasites-of-society/</loc>
     <lastmod>2019-08-09T00:36:45+02:00</lastmod>
   </url>
@@ -34,8 +39,8 @@
   </url>
   
   <url>
-    <loc>https://naturenotclimate.github.io/LoveNature/tags/climatehyseria/</loc>
-    <lastmod>2019-08-08T17:35:33+02:00</lastmod>
+    <loc>https://naturenotclimate.github.io/LoveNature/tags/climatehysteria/</loc>
+    <lastmod>2019-09-01T12:06:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,7 +76,7 @@
   
   <url>
     <loc>https://naturenotclimate.github.io/LoveNature/</loc>
-    <lastmod>2019-08-09T00:36:45+02:00</lastmod>
+    <lastmod>2019-09-01T12:06:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -101,13 +106,19 @@
   
   <url>
     <loc>https://naturenotclimate.github.io/LoveNature/post/</loc>
-    <lastmod>2019-08-09T00:36:45+02:00</lastmod>
+    <lastmod>2019-09-01T12:06:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://naturenotclimate.github.io/LoveNature/tags/public-opinion/</loc>
     <lastmod>2019-08-09T00:36:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naturenotclimate.github.io/LoveNature/tags/scam/</loc>
+    <lastmod>2019-09-01T12:06:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   

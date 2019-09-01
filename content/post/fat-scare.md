@@ -1,0 +1,26 @@
+---
+title: "Corporate funded science hypes are nothing new: the fat scare"
+date: 2019-09-01T12:06:20+02:00
+draft: false
+author: "sjisuu"
+tags: ["climatehysteria", "scam"]
+image: "img/science-settled.jpg"
+---
+
+You have probably heard of the [acid rain scare] of the seventies, a hype based not on science, but one solitary observation in a population of trees. Another such 1970’s science-fad was global cooling, a group of climatologists predicted that our earth was going to become a ball of ice because of a few years of lower average temperatures. Both unfounded hypes led to large and futile governmental spending. In nutrition science, there have also been plenty of memes that illegitimately dominated the scientific field. Most notable and destructive of these was the hypothesis that saturated fats and cholesterol caused heart disease and diabetes. Our current climate change scam follows the same patterns as these aforementioned hypes as history repeats itself. This is not the first time science fails at a massive scale, where biases and corporate lobbies get the upper hand over the mainstream narrative. In this article I will briefly go over the fat-scare that killed many hundreds of thousands of people. Through this parallel we can better understand the climate change craze, which is about to deal a deadly blow to both nature and the western world.
+
+Heart disease became a major health problem in the later part of the 20th century. One very evangelical doctor by the name of Ancel Keys wanted to become famous and published two papers containing ([fraudulent]) correlations between saturated fats and heart-disease. In the first and most important study, he threw away two thirds of the data that didn’t fit his narrative to conclude that saturated fats and cholesterol were the perpetrators of the heart related health issues. In the other study he specifically went to Crete during a festive week in which most population didn’t eat any animal products, to conclude that the Cretans, who on average live longer, are healthier because they eat less fat and protein. These two studies were the seed for a new fashion in nutricion that both corporations and governments quickly latched onto for power and wealth. The margarine industry immediately added fuel to the fire with funding, and an unstoppable train of biased science had started. Governments wrote new laws and guidelines before any rigorous studies were concluded, which led to a global epidemic of diabetes and obesity. Because of the great difficulty to criticize the central hypothesis and the complexity of the science, the hype was almost unstoppable. Ofcourse, the great industries that relied on this false perspective defended it and became wealthy on the backs of the general population. It took science decades to find out that eating a lot of carbohydrates results in many health defects, including diabetes and heart disease. By that time, the criminals had fled the crime scene rich, while the west now has to deal with an additional health epidemic. Like with climate change, the central problem only became worse.
+
+<div align="center">
+![The governmental guidelines have done a lot of harm, because they were based on false science][dietscam]
+</div><br>
+
+In complex and intercorrelated fields of science, such as psychology, sociology, nutricion and climatology, scientists only have statistical methods to draw conclusions with. Such fields are far too interconnected and complex to isolate single parameters in. No accurate predictions and correct conclusions can be drawn, the scientists are basically walking on quicksand. This is why we cannot forecast the weather for more than a few days, let alone predict climates. In such fields of science, it is very easy to confirm any results you’d like. You have to find a slight correlation, remove a few points of data and show the results in a suggestive manner: it is possible to 'prove' anything. This is how and why we have gone straight from global cooling to global warming. Intercorrelated and complex fields of science are therefore very susceptible to bias and corruption. Once a bias is pervasive, critics are deemed immoral and it becomes almost impossible to defend a counter-narrative. With the fat scare, critics were shamed as murderers and obtained no funding and lost their jobs. With climate change critics are evil climate deniers. In both hypes critics don't get a chance to be heard. This is the death of science. What most people don’t realize yet is that it is the large corporations like big oil that are pushing the climate scare, just like the margarine business was behind the fat-scare. Millions of people died because of the fat-scare, and climate change is going to one-up that in harm to nature and our civilisation...
+
+A rather good insight into the fat scare, from the investigative journalist who uncovered the fraud:
+<div align="center">{{< youtube hzQAHITIUhg >}}</div><br>
+
+---
+[acid rain scare]: https://www.forbes.com/sites/larrybell/2014/02/11/remember-the-acid-rain-scare-global-warming-hysteria-is-pouring-down/#21952b0c53fc 
+[dietscam]: ../img/diet_scam_obesity.jpg "The governmental guidelines have done a lot of harm, because they were based on false science"
+[fraudulent]: http://www.zoeharcombe.com/2017/08/the-seven-countries-study-part-1/
