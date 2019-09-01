@@ -11,7 +11,7 @@ image: "img/scam-alert.jpg"
 I work on the frontlines of tropical forests protection, right there where the chainsaws and the fires delete pristine forests the size of countries. During my work, I have never seen any signs of damage caused by climate change. At this moment, the destruction of tropical forests is at an all time high and [accellerating], and yet very few people care, because their focus has been diverted. 
 
 <div align="center">
-![deforestation][deforestation of the tropics is increasing]
+![deforestation of the tropics is increasing][deforestation]
 </div><br>
 
 Seasides haven't grown, species have not moved or went extinct because of warming. All human related extinctions are due to habitat loss or poaching. After 200 years of CO2 increasing, there are only predictions, nothing real has happened yet. Temperature measurements of the last few years are much lower than predicted with the scary models. So why are we sacrificing nature to save it? Real nature is being cut down while we are preoccupied with untrue speculations.
