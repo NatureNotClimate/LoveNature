@@ -41,8 +41,7 @@ Meanwhile, huge sums of money are confiscated from economies, in the name of ren
 [this new study]: https://arxiv.org/pdf/1907.00165.pdf
 [skeptical on climate change]: http://www.populartechnology.net/2009/10/peer-reviewed-papers-supporting.html#Preface
 [97% consensus]: https://climatechangedispatch.com/wsj-the-myth-of-the-climate-change-97/
+[deforestation]: ../img/deforestation_tropical.png "deforestation is increasing"
 [air measurements]: ../img/air_temperature_measurements.jpg "Measurements that show that no warming has taken place"
 [fire damage]: ../img/burning_rainforest_small.png?classes=float-left "Fire is the main cause of deforestation"
 [hurricane frequencies]: ../img/hurricane_frequencies.png "Hurricanes haven't become more prevalent either"
-
-[deforestation]: ../img/deforestation_tropical.png "deforestation is increasing"
